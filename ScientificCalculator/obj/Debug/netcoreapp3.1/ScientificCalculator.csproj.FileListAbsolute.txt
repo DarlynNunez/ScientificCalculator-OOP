@@ -1,0 +1,16 @@
+C:\Users\darly\Desktop\ScientificCalculator\bin\Debug\netcoreapp3.1\ScientificCalculator.exe
+C:\Users\darly\Desktop\ScientificCalculator\bin\Debug\netcoreapp3.1\ScientificCalculator.deps.json
+C:\Users\darly\Desktop\ScientificCalculator\bin\Debug\netcoreapp3.1\ScientificCalculator.runtimeconfig.json
+C:\Users\darly\Desktop\ScientificCalculator\bin\Debug\netcoreapp3.1\ScientificCalculator.runtimeconfig.dev.json
+C:\Users\darly\Desktop\ScientificCalculator\bin\Debug\netcoreapp3.1\ScientificCalculator.dll
+C:\Users\darly\Desktop\ScientificCalculator\bin\Debug\netcoreapp3.1\ScientificCalculator.pdb
+C:\Users\darly\Desktop\ScientificCalculator\obj\Debug\netcoreapp3.1\ScientificCalculator.csproj.AssemblyReference.cache
+C:\Users\darly\Desktop\ScientificCalculator\obj\Debug\netcoreapp3.1\ScientificCalculator.Form1.resources
+C:\Users\darly\Desktop\ScientificCalculator\obj\Debug\netcoreapp3.1\ScientificCalculator.csproj.GenerateResource.cache
+C:\Users\darly\Desktop\ScientificCalculator\obj\Debug\netcoreapp3.1\ScientificCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darly\Desktop\ScientificCalculator\obj\Debug\netcoreapp3.1\ScientificCalculator.AssemblyInfoInputs.cache
+C:\Users\darly\Desktop\ScientificCalculator\obj\Debug\netcoreapp3.1\ScientificCalculator.AssemblyInfo.cs
+C:\Users\darly\Desktop\ScientificCalculator\obj\Debug\netcoreapp3.1\ScientificCalculator.csproj.CoreCompileInputs.cache
+C:\Users\darly\Desktop\ScientificCalculator\obj\Debug\netcoreapp3.1\ScientificCalculator.dll
+C:\Users\darly\Desktop\ScientificCalculator\obj\Debug\netcoreapp3.1\ScientificCalculator.pdb
+C:\Users\darly\Desktop\ScientificCalculator\obj\Debug\netcoreapp3.1\ScientificCalculator.genruntimeconfig.cache
