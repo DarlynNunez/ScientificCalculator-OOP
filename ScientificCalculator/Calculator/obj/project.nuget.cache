@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0L3Vg8KJUTNWP+91xR/rIhie2bQeSUFstTY6qifwak0CJib/W4+55RpHQTLfee3fsbHqWH+XkK4yjDKvk6ay7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ADMIN\\Desktop\\OOP\\ScientificCalculator-OOP\\ScientificCalculator\\Calculator\\Calculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
