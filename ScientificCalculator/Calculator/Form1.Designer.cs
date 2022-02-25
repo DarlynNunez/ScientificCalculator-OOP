@@ -75,13 +75,13 @@ namespace Calculator
             // 
             // angleButton
             // 
-            this.angleButton.BackColor = System.Drawing.Color.RosyBrown;
+            this.angleButton.BackColor = System.Drawing.Color.MediumPurple;
             this.angleButton.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.angleButton.Font = new System.Drawing.Font("Stencil", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.angleButton.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.angleButton.Location = new System.Drawing.Point(0, 141);
+            this.angleButton.Location = new System.Drawing.Point(8, 136);
             this.angleButton.Name = "angleButton";
-            this.angleButton.Size = new System.Drawing.Size(100, 40);
+            this.angleButton.Size = new System.Drawing.Size(82, 40);
             this.angleButton.TabIndex = 2;
             this.angleButton.Text = "DEG";
             this.angleButton.UseVisualStyleBackColor = false;
@@ -89,11 +89,11 @@ namespace Calculator
             // 
             // changeTrigoButton
             // 
-            this.changeTrigoButton.BackColor = System.Drawing.Color.RosyBrown;
+            this.changeTrigoButton.BackColor = System.Drawing.Color.MediumPurple;
             this.changeTrigoButton.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.changeTrigoButton.Font = new System.Drawing.Font("Stencil", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.changeTrigoButton.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.changeTrigoButton.Location = new System.Drawing.Point(0, 180);
+            this.changeTrigoButton.Location = new System.Drawing.Point(8, 175);
             this.changeTrigoButton.Name = "changeTrigoButton";
             this.changeTrigoButton.Size = new System.Drawing.Size(100, 40);
             this.changeTrigoButton.TabIndex = 11;
@@ -103,11 +103,11 @@ namespace Calculator
             // 
             // cotButton
             // 
-            this.cotButton.BackColor = System.Drawing.Color.RosyBrown;
+            this.cotButton.BackColor = System.Drawing.Color.MediumPurple;
             this.cotButton.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.cotButton.Font = new System.Drawing.Font("Stencil", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.cotButton.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.cotButton.Location = new System.Drawing.Point(496, 180);
+            this.cotButton.Location = new System.Drawing.Point(504, 175);
             this.cotButton.Name = "cotButton";
             this.cotButton.Size = new System.Drawing.Size(100, 40);
             this.cotButton.TabIndex = 19;
@@ -117,11 +117,11 @@ namespace Calculator
             // 
             // cscButton
             // 
-            this.cscButton.BackColor = System.Drawing.Color.RosyBrown;
+            this.cscButton.BackColor = System.Drawing.Color.MediumPurple;
             this.cscButton.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.cscButton.Font = new System.Drawing.Font("Stencil", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.cscButton.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.cscButton.Location = new System.Drawing.Point(397, 180);
+            this.cscButton.Location = new System.Drawing.Point(405, 175);
             this.cscButton.Name = "cscButton";
             this.cscButton.Size = new System.Drawing.Size(100, 40);
             this.cscButton.TabIndex = 20;
@@ -131,11 +131,11 @@ namespace Calculator
             // 
             // secButton
             // 
-            this.secButton.BackColor = System.Drawing.Color.RosyBrown;
+            this.secButton.BackColor = System.Drawing.Color.MediumPurple;
             this.secButton.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.secButton.Font = new System.Drawing.Font("Stencil", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.secButton.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.secButton.Location = new System.Drawing.Point(298, 180);
+            this.secButton.Location = new System.Drawing.Point(306, 175);
             this.secButton.Name = "secButton";
             this.secButton.Size = new System.Drawing.Size(100, 40);
             this.secButton.TabIndex = 21;
@@ -145,13 +145,13 @@ namespace Calculator
             // 
             // hypButton
             // 
-            this.hypButton.BackColor = System.Drawing.Color.RosyBrown;
+            this.hypButton.BackColor = System.Drawing.Color.MediumPurple;
             this.hypButton.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.hypButton.Font = new System.Drawing.Font("Stencil", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.hypButton.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.hypButton.Location = new System.Drawing.Point(397, 141);
+            this.hypButton.Location = new System.Drawing.Point(324, 136);
             this.hypButton.Name = "hypButton";
-            this.hypButton.Size = new System.Drawing.Size(100, 40);
+            this.hypButton.Size = new System.Drawing.Size(82, 40);
             this.hypButton.TabIndex = 22;
             this.hypButton.Text = "hyp";
             this.hypButton.UseVisualStyleBackColor = false;
@@ -159,13 +159,13 @@ namespace Calculator
             // 
             // tanButton
             // 
-            this.tanButton.BackColor = System.Drawing.Color.RosyBrown;
+            this.tanButton.BackColor = System.Drawing.Color.MediumPurple;
             this.tanButton.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.tanButton.Font = new System.Drawing.Font("Stencil", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.tanButton.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.tanButton.Location = new System.Drawing.Point(298, 141);
+            this.tanButton.Location = new System.Drawing.Point(246, 136);
             this.tanButton.Name = "tanButton";
-            this.tanButton.Size = new System.Drawing.Size(100, 40);
+            this.tanButton.Size = new System.Drawing.Size(82, 40);
             this.tanButton.TabIndex = 23;
             this.tanButton.Text = "tan";
             this.tanButton.UseVisualStyleBackColor = false;
@@ -173,13 +173,13 @@ namespace Calculator
             // 
             // cosButton
             // 
-            this.cosButton.BackColor = System.Drawing.Color.RosyBrown;
+            this.cosButton.BackColor = System.Drawing.Color.MediumPurple;
             this.cosButton.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.cosButton.Font = new System.Drawing.Font("Stencil", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.cosButton.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.cosButton.Location = new System.Drawing.Point(199, 141);
+            this.cosButton.Location = new System.Drawing.Point(165, 136);
             this.cosButton.Name = "cosButton";
-            this.cosButton.Size = new System.Drawing.Size(100, 40);
+            this.cosButton.Size = new System.Drawing.Size(82, 40);
             this.cosButton.TabIndex = 24;
             this.cosButton.Text = "cos";
             this.cosButton.UseVisualStyleBackColor = false;
@@ -187,13 +187,13 @@ namespace Calculator
             // 
             // sinButton
             // 
-            this.sinButton.BackColor = System.Drawing.Color.RosyBrown;
+            this.sinButton.BackColor = System.Drawing.Color.MediumPurple;
             this.sinButton.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.sinButton.Font = new System.Drawing.Font("Stencil", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.sinButton.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.sinButton.Location = new System.Drawing.Point(100, 141);
+            this.sinButton.Location = new System.Drawing.Point(89, 136);
             this.sinButton.Name = "sinButton";
-            this.sinButton.Size = new System.Drawing.Size(100, 40);
+            this.sinButton.Size = new System.Drawing.Size(82, 40);
             this.sinButton.TabIndex = 25;
             this.sinButton.Text = "sin";
             this.sinButton.UseVisualStyleBackColor = false;
@@ -201,11 +201,11 @@ namespace Calculator
             // 
             // xSquaredButton
             // 
-            this.xSquaredButton.BackColor = System.Drawing.Color.RosyBrown;
+            this.xSquaredButton.BackColor = System.Drawing.Color.MediumPurple;
             this.xSquaredButton.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.xSquaredButton.Font = new System.Drawing.Font("Stencil", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.xSquaredButton.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.xSquaredButton.Location = new System.Drawing.Point(0, 219);
+            this.xSquaredButton.Location = new System.Drawing.Point(8, 214);
             this.xSquaredButton.Name = "xSquaredButton";
             this.xSquaredButton.Size = new System.Drawing.Size(120, 40);
             this.xSquaredButton.TabIndex = 26;
@@ -215,11 +215,11 @@ namespace Calculator
             // 
             // squareRootButton
             // 
-            this.squareRootButton.BackColor = System.Drawing.Color.RosyBrown;
+            this.squareRootButton.BackColor = System.Drawing.Color.MediumPurple;
             this.squareRootButton.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.squareRootButton.Font = new System.Drawing.Font("Stencil", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.squareRootButton.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.squareRootButton.Location = new System.Drawing.Point(0, 258);
+            this.squareRootButton.Location = new System.Drawing.Point(8, 253);
             this.squareRootButton.Name = "squareRootButton";
             this.squareRootButton.Size = new System.Drawing.Size(120, 40);
             this.squareRootButton.TabIndex = 27;
@@ -229,11 +229,11 @@ namespace Calculator
             // 
             // exponentialTen
             // 
-            this.exponentialTen.BackColor = System.Drawing.Color.RosyBrown;
+            this.exponentialTen.BackColor = System.Drawing.Color.MediumPurple;
             this.exponentialTen.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.exponentialTen.Font = new System.Drawing.Font("Stencil", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.exponentialTen.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.exponentialTen.Location = new System.Drawing.Point(0, 297);
+            this.exponentialTen.Location = new System.Drawing.Point(8, 292);
             this.exponentialTen.Name = "exponentialTen";
             this.exponentialTen.Size = new System.Drawing.Size(120, 40);
             this.exponentialTen.TabIndex = 29;
@@ -243,11 +243,11 @@ namespace Calculator
             // 
             // logButton
             // 
-            this.logButton.BackColor = System.Drawing.Color.RosyBrown;
+            this.logButton.BackColor = System.Drawing.Color.MediumPurple;
             this.logButton.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.logButton.Font = new System.Drawing.Font("Stencil", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.logButton.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.logButton.Location = new System.Drawing.Point(0, 336);
+            this.logButton.Location = new System.Drawing.Point(8, 331);
             this.logButton.Name = "logButton";
             this.logButton.Size = new System.Drawing.Size(120, 40);
             this.logButton.TabIndex = 30;
@@ -257,11 +257,11 @@ namespace Calculator
             // 
             // lnButton
             // 
-            this.lnButton.BackColor = System.Drawing.Color.RosyBrown;
+            this.lnButton.BackColor = System.Drawing.Color.MediumPurple;
             this.lnButton.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.lnButton.Font = new System.Drawing.Font("Stencil", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.lnButton.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.lnButton.Location = new System.Drawing.Point(0, 375);
+            this.lnButton.Location = new System.Drawing.Point(8, 370);
             this.lnButton.Name = "lnButton";
             this.lnButton.Size = new System.Drawing.Size(120, 40);
             this.lnButton.TabIndex = 31;
@@ -271,11 +271,11 @@ namespace Calculator
             // 
             // buttonOverX
             // 
-            this.buttonOverX.BackColor = System.Drawing.Color.RosyBrown;
+            this.buttonOverX.BackColor = System.Drawing.Color.MediumPurple;
             this.buttonOverX.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.buttonOverX.Font = new System.Drawing.Font("Stencil", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.buttonOverX.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.buttonOverX.Location = new System.Drawing.Point(100, 180);
+            this.buttonOverX.Location = new System.Drawing.Point(108, 175);
             this.buttonOverX.Name = "buttonOverX";
             this.buttonOverX.Size = new System.Drawing.Size(100, 40);
             this.buttonOverX.TabIndex = 32;
@@ -284,11 +284,11 @@ namespace Calculator
             // 
             // buttonAbsolute
             // 
-            this.buttonAbsolute.BackColor = System.Drawing.Color.RosyBrown;
+            this.buttonAbsolute.BackColor = System.Drawing.Color.MediumPurple;
             this.buttonAbsolute.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.buttonAbsolute.Font = new System.Drawing.Font("Stencil", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.buttonAbsolute.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.buttonAbsolute.Location = new System.Drawing.Point(199, 180);
+            this.buttonAbsolute.Location = new System.Drawing.Point(207, 175);
             this.buttonAbsolute.Name = "buttonAbsolute";
             this.buttonAbsolute.Size = new System.Drawing.Size(100, 40);
             this.buttonAbsolute.TabIndex = 33;
@@ -298,11 +298,11 @@ namespace Calculator
             // 
             // buttonOpenParen
             // 
-            this.buttonOpenParen.BackColor = System.Drawing.Color.RosyBrown;
+            this.buttonOpenParen.BackColor = System.Drawing.Color.MediumPurple;
             this.buttonOpenParen.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.buttonOpenParen.Font = new System.Drawing.Font("Stencil", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.buttonOpenParen.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.buttonOpenParen.Location = new System.Drawing.Point(119, 219);
+            this.buttonOpenParen.Location = new System.Drawing.Point(127, 214);
             this.buttonOpenParen.Name = "buttonOpenParen";
             this.buttonOpenParen.Size = new System.Drawing.Size(120, 40);
             this.buttonOpenParen.TabIndex = 36;
@@ -312,11 +312,11 @@ namespace Calculator
             // 
             // buttonCloseParen
             // 
-            this.buttonCloseParen.BackColor = System.Drawing.Color.RosyBrown;
+            this.buttonCloseParen.BackColor = System.Drawing.Color.MediumPurple;
             this.buttonCloseParen.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.buttonCloseParen.Font = new System.Drawing.Font("Stencil", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.buttonCloseParen.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.buttonCloseParen.Location = new System.Drawing.Point(238, 219);
+            this.buttonCloseParen.Location = new System.Drawing.Point(246, 214);
             this.buttonCloseParen.Name = "buttonCloseParen";
             this.buttonCloseParen.Size = new System.Drawing.Size(120, 40);
             this.buttonCloseParen.TabIndex = 37;
@@ -326,11 +326,11 @@ namespace Calculator
             // 
             // buttonFactorial
             // 
-            this.buttonFactorial.BackColor = System.Drawing.Color.RosyBrown;
+            this.buttonFactorial.BackColor = System.Drawing.Color.MediumPurple;
             this.buttonFactorial.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.buttonFactorial.Font = new System.Drawing.Font("Stencil", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.buttonFactorial.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.buttonFactorial.Location = new System.Drawing.Point(357, 219);
+            this.buttonFactorial.Location = new System.Drawing.Point(365, 214);
             this.buttonFactorial.Name = "buttonFactorial";
             this.buttonFactorial.Size = new System.Drawing.Size(120, 40);
             this.buttonFactorial.TabIndex = 38;
@@ -340,11 +340,11 @@ namespace Calculator
             // 
             // buttonDivide
             // 
-            this.buttonDivide.BackColor = System.Drawing.Color.RosyBrown;
+            this.buttonDivide.BackColor = System.Drawing.Color.MediumPurple;
             this.buttonDivide.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.buttonDivide.Font = new System.Drawing.Font("Stencil", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.buttonDivide.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.buttonDivide.Location = new System.Drawing.Point(476, 219);
+            this.buttonDivide.Location = new System.Drawing.Point(484, 214);
             this.buttonDivide.Name = "buttonDivide";
             this.buttonDivide.Size = new System.Drawing.Size(120, 40);
             this.buttonDivide.TabIndex = 39;
@@ -354,11 +354,11 @@ namespace Calculator
             // 
             // button7
             // 
-            this.button7.BackColor = System.Drawing.Color.RosyBrown;
+            this.button7.BackColor = System.Drawing.Color.PaleTurquoise;
             this.button7.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.button7.Font = new System.Drawing.Font("Stencil", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.button7.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.button7.Location = new System.Drawing.Point(119, 258);
+            this.button7.Location = new System.Drawing.Point(127, 253);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(120, 40);
             this.button7.TabIndex = 40;
@@ -368,11 +368,11 @@ namespace Calculator
             // 
             // button8
             // 
-            this.button8.BackColor = System.Drawing.Color.RosyBrown;
+            this.button8.BackColor = System.Drawing.Color.PaleTurquoise;
             this.button8.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.button8.Font = new System.Drawing.Font("Stencil", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.button8.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.button8.Location = new System.Drawing.Point(238, 258);
+            this.button8.Location = new System.Drawing.Point(246, 253);
             this.button8.Name = "button8";
             this.button8.Size = new System.Drawing.Size(120, 40);
             this.button8.TabIndex = 41;
@@ -382,11 +382,11 @@ namespace Calculator
             // 
             // button9
             // 
-            this.button9.BackColor = System.Drawing.Color.RosyBrown;
+            this.button9.BackColor = System.Drawing.Color.PaleTurquoise;
             this.button9.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.button9.Font = new System.Drawing.Font("Stencil", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.button9.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.button9.Location = new System.Drawing.Point(357, 258);
+            this.button9.Location = new System.Drawing.Point(365, 253);
             this.button9.Name = "button9";
             this.button9.Size = new System.Drawing.Size(120, 40);
             this.button9.TabIndex = 42;
@@ -396,11 +396,11 @@ namespace Calculator
             // 
             // buttonMultiply
             // 
-            this.buttonMultiply.BackColor = System.Drawing.Color.RosyBrown;
+            this.buttonMultiply.BackColor = System.Drawing.Color.MediumPurple;
             this.buttonMultiply.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.buttonMultiply.Font = new System.Drawing.Font("Stencil", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.buttonMultiply.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.buttonMultiply.Location = new System.Drawing.Point(476, 258);
+            this.buttonMultiply.Location = new System.Drawing.Point(484, 253);
             this.buttonMultiply.Name = "buttonMultiply";
             this.buttonMultiply.Size = new System.Drawing.Size(120, 40);
             this.buttonMultiply.TabIndex = 43;
@@ -410,11 +410,11 @@ namespace Calculator
             // 
             // button6
             // 
-            this.button6.BackColor = System.Drawing.Color.RosyBrown;
+            this.button6.BackColor = System.Drawing.Color.PaleTurquoise;
             this.button6.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.button6.Font = new System.Drawing.Font("Stencil", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.button6.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.button6.Location = new System.Drawing.Point(357, 297);
+            this.button6.Location = new System.Drawing.Point(365, 292);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(120, 40);
             this.button6.TabIndex = 46;
@@ -424,11 +424,11 @@ namespace Calculator
             // 
             // button5
             // 
-            this.button5.BackColor = System.Drawing.Color.RosyBrown;
+            this.button5.BackColor = System.Drawing.Color.PaleTurquoise;
             this.button5.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.button5.Font = new System.Drawing.Font("Stencil", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.button5.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.button5.Location = new System.Drawing.Point(238, 297);
+            this.button5.Location = new System.Drawing.Point(246, 292);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(120, 40);
             this.button5.TabIndex = 45;
@@ -438,11 +438,11 @@ namespace Calculator
             // 
             // button4
             // 
-            this.button4.BackColor = System.Drawing.Color.RosyBrown;
+            this.button4.BackColor = System.Drawing.Color.PaleTurquoise;
             this.button4.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.button4.Font = new System.Drawing.Font("Stencil", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.button4.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.button4.Location = new System.Drawing.Point(119, 297);
+            this.button4.Location = new System.Drawing.Point(127, 292);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(120, 40);
             this.button4.TabIndex = 44;
@@ -452,11 +452,11 @@ namespace Calculator
             // 
             // button3
             // 
-            this.button3.BackColor = System.Drawing.Color.RosyBrown;
+            this.button3.BackColor = System.Drawing.Color.PaleTurquoise;
             this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.button3.Font = new System.Drawing.Font("Stencil", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.button3.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.button3.Location = new System.Drawing.Point(357, 336);
+            this.button3.Location = new System.Drawing.Point(365, 331);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(120, 40);
             this.button3.TabIndex = 49;
@@ -466,11 +466,11 @@ namespace Calculator
             // 
             // button2
             // 
-            this.button2.BackColor = System.Drawing.Color.RosyBrown;
+            this.button2.BackColor = System.Drawing.Color.PaleTurquoise;
             this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.button2.Font = new System.Drawing.Font("Stencil", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.button2.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.button2.Location = new System.Drawing.Point(238, 336);
+            this.button2.Location = new System.Drawing.Point(246, 331);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(120, 40);
             this.button2.TabIndex = 48;
@@ -480,11 +480,11 @@ namespace Calculator
             // 
             // button1
             // 
-            this.button1.BackColor = System.Drawing.Color.RosyBrown;
+            this.button1.BackColor = System.Drawing.Color.PaleTurquoise;
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.button1.Font = new System.Drawing.Font("Stencil", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.button1.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.button1.Location = new System.Drawing.Point(119, 336);
+            this.button1.Location = new System.Drawing.Point(127, 331);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(120, 40);
             this.button1.TabIndex = 47;
@@ -494,11 +494,11 @@ namespace Calculator
             // 
             // buttonSubtract
             // 
-            this.buttonSubtract.BackColor = System.Drawing.Color.RosyBrown;
+            this.buttonSubtract.BackColor = System.Drawing.Color.MediumPurple;
             this.buttonSubtract.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.buttonSubtract.Font = new System.Drawing.Font("Stencil", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.buttonSubtract.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.buttonSubtract.Location = new System.Drawing.Point(476, 297);
+            this.buttonSubtract.Location = new System.Drawing.Point(484, 292);
             this.buttonSubtract.Name = "buttonSubtract";
             this.buttonSubtract.Size = new System.Drawing.Size(120, 40);
             this.buttonSubtract.TabIndex = 50;
@@ -508,11 +508,11 @@ namespace Calculator
             // 
             // buttonAddition
             // 
-            this.buttonAddition.BackColor = System.Drawing.Color.RosyBrown;
+            this.buttonAddition.BackColor = System.Drawing.Color.MediumPurple;
             this.buttonAddition.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.buttonAddition.Font = new System.Drawing.Font("Stencil", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.buttonAddition.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.buttonAddition.Location = new System.Drawing.Point(476, 336);
+            this.buttonAddition.Location = new System.Drawing.Point(484, 331);
             this.buttonAddition.Name = "buttonAddition";
             this.buttonAddition.Size = new System.Drawing.Size(120, 40);
             this.buttonAddition.TabIndex = 51;
@@ -522,11 +522,11 @@ namespace Calculator
             // 
             // buttonDot
             // 
-            this.buttonDot.BackColor = System.Drawing.Color.RosyBrown;
+            this.buttonDot.BackColor = System.Drawing.Color.PaleTurquoise;
             this.buttonDot.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.buttonDot.Font = new System.Drawing.Font("Stencil", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.buttonDot.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.buttonDot.Location = new System.Drawing.Point(357, 375);
+            this.buttonDot.Location = new System.Drawing.Point(365, 370);
             this.buttonDot.Name = "buttonDot";
             this.buttonDot.Size = new System.Drawing.Size(120, 40);
             this.buttonDot.TabIndex = 54;
@@ -536,11 +536,11 @@ namespace Calculator
             // 
             // button0
             // 
-            this.button0.BackColor = System.Drawing.Color.RosyBrown;
+            this.button0.BackColor = System.Drawing.Color.PaleTurquoise;
             this.button0.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.button0.Font = new System.Drawing.Font("Stencil", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.button0.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.button0.Location = new System.Drawing.Point(238, 375);
+            this.button0.Location = new System.Drawing.Point(246, 370);
             this.button0.Name = "button0";
             this.button0.Size = new System.Drawing.Size(120, 40);
             this.button0.TabIndex = 53;
@@ -550,11 +550,11 @@ namespace Calculator
             // 
             // buttonNegativePositive
             // 
-            this.buttonNegativePositive.BackColor = System.Drawing.Color.RosyBrown;
+            this.buttonNegativePositive.BackColor = System.Drawing.Color.PaleTurquoise;
             this.buttonNegativePositive.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.buttonNegativePositive.Font = new System.Drawing.Font("Stencil", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.buttonNegativePositive.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.buttonNegativePositive.Location = new System.Drawing.Point(119, 375);
+            this.buttonNegativePositive.Location = new System.Drawing.Point(127, 370);
             this.buttonNegativePositive.Name = "buttonNegativePositive";
             this.buttonNegativePositive.Size = new System.Drawing.Size(120, 40);
             this.buttonNegativePositive.TabIndex = 52;
@@ -564,11 +564,11 @@ namespace Calculator
             // 
             // buttonEqual
             // 
-            this.buttonEqual.BackColor = System.Drawing.Color.RosyBrown;
+            this.buttonEqual.BackColor = System.Drawing.Color.MediumPurple;
             this.buttonEqual.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.buttonEqual.Font = new System.Drawing.Font("Stencil", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.buttonEqual.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.buttonEqual.Location = new System.Drawing.Point(476, 375);
+            this.buttonEqual.Location = new System.Drawing.Point(484, 370);
             this.buttonEqual.Name = "buttonEqual";
             this.buttonEqual.Size = new System.Drawing.Size(120, 40);
             this.buttonEqual.TabIndex = 55;
@@ -578,11 +578,12 @@ namespace Calculator
             // 
             // groupPreview
             // 
+            this.groupPreview.BackColor = System.Drawing.Color.PaleTurquoise;
             this.groupPreview.Controls.Add(this.preview2);
             this.groupPreview.Controls.Add(this.preview1);
             this.groupPreview.Location = new System.Drawing.Point(12, 12);
             this.groupPreview.Name = "groupPreview";
-            this.groupPreview.Size = new System.Drawing.Size(584, 84);
+            this.groupPreview.Size = new System.Drawing.Size(584, 102);
             this.groupPreview.TabIndex = 56;
             this.groupPreview.TabStop = false;
             // 
@@ -601,19 +602,20 @@ namespace Calculator
             this.preview1.Font = new System.Drawing.Font("Garamond", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.preview1.Location = new System.Drawing.Point(5, 42);
             this.preview1.Name = "preview1";
-            this.preview1.Size = new System.Drawing.Size(572, 37);
+            this.preview1.Size = new System.Drawing.Size(572, 49);
             this.preview1.TabIndex = 0;
             this.preview1.Text = "0";
             this.preview1.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.preview1.TextChanged += new System.EventHandler(this.preview1_TextChanged);
+            this.preview1.Click += new System.EventHandler(this.preview1_Click);
             // 
             // eraseButton
             // 
-            this.eraseButton.BackColor = System.Drawing.Color.RosyBrown;
+            this.eraseButton.BackColor = System.Drawing.Color.MediumPurple;
             this.eraseButton.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.eraseButton.Font = new System.Drawing.Font("Stencil", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.eraseButton.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.eraseButton.Location = new System.Drawing.Point(496, 141);
+            this.eraseButton.Location = new System.Drawing.Point(504, 136);
             this.eraseButton.Name = "eraseButton";
             this.eraseButton.Size = new System.Drawing.Size(100, 40);
             this.eraseButton.TabIndex = 57;
@@ -623,13 +625,13 @@ namespace Calculator
             // 
             // clearButton
             // 
-            this.clearButton.BackColor = System.Drawing.Color.RosyBrown;
+            this.clearButton.BackColor = System.Drawing.Color.MediumPurple;
             this.clearButton.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.clearButton.Font = new System.Drawing.Font("Stencil", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.clearButton.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.clearButton.Location = new System.Drawing.Point(397, 102);
+            this.clearButton.Location = new System.Drawing.Point(405, 136);
             this.clearButton.Name = "clearButton";
-            this.clearButton.Size = new System.Drawing.Size(199, 40);
+            this.clearButton.Size = new System.Drawing.Size(100, 40);
             this.clearButton.TabIndex = 58;
             this.clearButton.Text = "C";
             this.clearButton.UseVisualStyleBackColor = false;
@@ -640,7 +642,8 @@ namespace Calculator
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
-            this.ClientSize = new System.Drawing.Size(600, 415);
+            this.BackgroundImage = global::Calculator.Properties.Resources.BG;
+            this.ClientSize = new System.Drawing.Size(615, 436);
             this.Controls.Add(this.clearButton);
             this.Controls.Add(this.eraseButton);
             this.Controls.Add(this.groupPreview);
