@@ -281,6 +281,7 @@ namespace Calculator
             this.buttonOverX.TabIndex = 32;
             this.buttonOverX.Text = "1/x";
             this.buttonOverX.UseVisualStyleBackColor = false;
+            this.buttonOverX.Click += new System.EventHandler(this.buttonOverX_Click);
             // 
             // buttonAbsolute
             // 
@@ -340,7 +341,7 @@ namespace Calculator
             // 
             // buttonDivide
             // 
-            this.buttonDivide.BackColor = System.Drawing.Color.MediumPurple;
+            this.buttonDivide.BackColor = System.Drawing.Color.SlateBlue;
             this.buttonDivide.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.buttonDivide.Font = new System.Drawing.Font("Stencil", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.buttonDivide.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
@@ -396,7 +397,7 @@ namespace Calculator
             // 
             // buttonMultiply
             // 
-            this.buttonMultiply.BackColor = System.Drawing.Color.MediumPurple;
+            this.buttonMultiply.BackColor = System.Drawing.Color.SlateBlue;
             this.buttonMultiply.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.buttonMultiply.Font = new System.Drawing.Font("Stencil", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.buttonMultiply.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
@@ -494,7 +495,7 @@ namespace Calculator
             // 
             // buttonSubtract
             // 
-            this.buttonSubtract.BackColor = System.Drawing.Color.MediumPurple;
+            this.buttonSubtract.BackColor = System.Drawing.Color.SlateBlue;
             this.buttonSubtract.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.buttonSubtract.Font = new System.Drawing.Font("Stencil", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.buttonSubtract.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
@@ -508,7 +509,7 @@ namespace Calculator
             // 
             // buttonAddition
             // 
-            this.buttonAddition.BackColor = System.Drawing.Color.MediumPurple;
+            this.buttonAddition.BackColor = System.Drawing.Color.SlateBlue;
             this.buttonAddition.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.buttonAddition.Font = new System.Drawing.Font("Stencil", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.buttonAddition.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
@@ -564,7 +565,7 @@ namespace Calculator
             // 
             // buttonEqual
             // 
-            this.buttonEqual.BackColor = System.Drawing.Color.MediumPurple;
+            this.buttonEqual.BackColor = System.Drawing.Color.SlateBlue;
             this.buttonEqual.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.buttonEqual.Font = new System.Drawing.Font("Stencil", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
             this.buttonEqual.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;

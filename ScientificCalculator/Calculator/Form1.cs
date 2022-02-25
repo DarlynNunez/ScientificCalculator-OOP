@@ -1045,6 +1045,12 @@ namespace Calculator
             squared10 = true;
         }
 
+        private void buttonOverX_Click(object sender, EventArgs e)
+        {
+            preview2.Text += $" 1/{preview1.Text}";
+            preview1.Text = (1 / double.Parse(preview1.Text)).ToString();
+        }
+
         private void LogSupport()
         {
             preview2.Text += $" log({preview1.Text})";
@@ -1120,5 +1126,7 @@ namespace Calculator
         {
 
         }
+
+       
     }
 }
